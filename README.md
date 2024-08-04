@@ -1,6 +1,6 @@
 # TechEazyConsulting
 
-HOW TO RUN THIS FILE
+HOW TO RUN THE PROJECT
 
 1.clone the repository.
 
